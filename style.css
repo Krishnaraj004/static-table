@@ -1,0 +1,52 @@
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#time{
+    border: none;
+    text-align: center;
+    position: relative;
+    left:80px;
+}
+#Lunch td{
+   border: 0px solid white;
+    
+}
+#project{
+    border: none;
+}
+
+
+
+
+
+
+
+
+h2{
+    text-align: center;
+}
+.image{
+    width: 33%;
+    height: 200px;
+
+}
+
+.image img{
+    border: 1px solid black;
+    width: 380px;
+    height: 300px;
+    margin: 10px;
+}
+
+.im1{
+    display: flex;
+}
+
+.im2{
+    display: flex;
+}
+
+.im3{
+    display: flex;
+}
